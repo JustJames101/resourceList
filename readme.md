@@ -1,4 +1,4 @@
-because### JustJames List of thing and stuff
+### JustJames List of things and stuff
 
 *This repo should can serve as a resource list while planning lessons for students, deciding project ideas, finding problems to go over in class or assigning students extra practice*
 
