@@ -1,35 +1,32 @@
-### Projects
-  *The API projects listed below were chosen because they don't need keys to access data*
+because### JustJames List of thing and stuff
 
-[ComicLesson](https://github.com/ninjames101/comicLesson)
-  - There are all sorts of stretches here but this is a great exercise for DOM and jQuery and AJAX because the api has images and text and titles we can dynamically create. We also only have one object we are dealing with. It also deals with params and args. We can add a function to change to comic on reload or even a button to do that as well. A great and fun way to test and show case what you learned.
+*This repo should can serve as a resource list while planning lessons for students, deciding project ideas, finding problems to go over in class or assigning students extra practice*
 
-[Pokemon Api lesson](https://github.com/gSchool/ajax-drill)
-  - The read me is kind of bland and will need to be altered but the pokemon api is also a great place to start. This one is a better project top complete for AJAX because you can pick and choose how much data comes back.
-  - It is also a great DOM exercise because the api has pictures and title and all that jazz
-  - Use this new version of the API http://pokeapi.co/api/v2/
+_This Repo should not be used alone as a source of lessons and it is in no way complete_
 
-[Reddit API](https://www.reddit.com/dev/api)
-  - The lesson would still need to be made for this one but the reddit api/json is an amazing learning tool. You can get info from any subreddit you want. There are gifs and pictures and the students can be as creative as they want in what they want to do with all the info
+##### My two cents
+  - There is a lot of great material on Learn however there isnt enough practice content
+  - To really feel like you know something, you have to use it and do it
+  - Learn doesn't facilitate that
+  - Creating supplemental exercises that students can do when they want allows them to build confidence so they feel like they are actually learning things
+  - The "stretches" also solidify the lessons
+  - I also provided solve videos that the students could watch on their own time if they wanted to
+  - I provided the solves as well
+  - This class goes so fast and there are so many things that are purely conceptual that a lot of students can get down on themselves and get discouraged
+  - It was because of this that I did stand up and stand down and nightly survey's
+    - Stand down was the last chance I had to frame the lessons properly and gave me the chance to remind them I don't expect them to know all of the things I was teaching or really any of the things I was teaching
+    - Instead I just wanted them to wrestle with them enough so that the next time they saw "jQuery" they could at least be like "oh I don't know what that is but I know it is a thing"
+  - This class asks a lot and I was fortunate to have really good TA's who were dialed in to the students and helped me identify problems early on
+  - I found that breaking them up in groups to solve problems the class was struggling with, became super effective. I would then solve the problem up front with each groups help
+    - This helped the students see how everybody else was thinking and I think it helped ease some of that fear of not being good enough
+  - I also found that teaching this class with a clear end goal in mind helped a ton
+    - This course could easily be two classes
+    - I decided to focus on the web dev stuff and not just JS
+    - I think in the future I would tackle HTML and CSS earlier
+    - HTML and CSS with JS is fun for the students because they get to see the practical application of learning these skills
+  - At the end of the day the hardest part about the class is getting the students comfortable with only partially knowing things
+    - Getting them there faster will lead to greater success in the future
 
-[Beer](https://punkapi.com/documentation/v2)
-  - I mean come on, who doesn't love beer?
-  - Again the lesson needs to be created for this one but the possibilities for this kind of project are endless
-  - This also can be a great AJAX lesson because the students can get back different data based on their request
-  - They can make loops to filter info and even for a stretch pair with a location API
-
-
-  *Non Api projects*
-
-[Mad Libs](https://github.com/gSchool/madlibs)
-  - Great project that you can tweak how you see fit
-  - Brings in html css and JS
-  - Can be made into jQuery or pure JS
-  - Tons of room for stretches
-  - Great DOM project
-
-[Pixel Art](https://github.com/gSchool/pixel-art-maker)
-  - This is a super ambitious project to do after the two week course but I think it is a great project
-  - There is so much to do and to learn here
-  - Everything from DOM to good HTML to basic JS functions that generate the boxes
-  - The student can even dive deeper into events
+  - I am also very glad I talked about Learning to Learn and Culture of error as well as fixed mind set v growth mind set
+    - Bringing those soft skills into the classroom made it feel more of a community and less of a night class
+    - Further I think the talking about above ideals and establishing community early on helped solidify that Galvanize culture
