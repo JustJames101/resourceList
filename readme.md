@@ -1,6 +1,6 @@
 ### Projects
   *The API projects listed below were chosen because they don't need keys to access data*
-  
+
 [ComicLesson](https://github.com/ninjames101/comicLesson)
   - There are all sorts of stretches here but this is a great exercise for DOM and jQuery and AJAX because the api has images and text and titles we can dynamically create. We also only have one object we are dealing with. It also deals with params and args. We can add a function to change to comic on reload or even a button to do that as well. A great and fun way to test and show case what you learned.
 
@@ -20,6 +20,7 @@
 
 
   *Non Api projects*
+  
   [Mad Libs](https://github.com/gSchool/madlibs)
     - Great project that you can tweak how you see fit
     - Brings in html css and JS
