@@ -20,16 +20,16 @@
 
 
   *Non Api projects*
-  
-  [Mad Libs](https://github.com/gSchool/madlibs)
-    - Great project that you can tweak how you see fit
-    - Brings in html css and JS
-    - Can be made into jQuery or pure JS
-    - Tons of room for stretches
-    - Great DOM project
 
-  [Pixel Art](https://github.com/gSchool/pixel-art-maker)
-    - This is a super ambitious project to do after the two week course but I think it is a great project
-    - There is so much to do and to learn here
-    - Everything from DOM to good HTML to basic JS functions that generate the boxes
-    - The student can even dive deeper into events
+[Mad Libs](https://github.com/gSchool/madlibs)
+  - Great project that you can tweak how you see fit
+  - Brings in html css and JS
+  - Can be made into jQuery or pure JS
+  - Tons of room for stretches
+  - Great DOM project
+
+[Pixel Art](https://github.com/gSchool/pixel-art-maker)
+  - This is a super ambitious project to do after the two week course but I think it is a great project
+  - There is so much to do and to learn here
+  - Everything from DOM to good HTML to basic JS functions that generate the boxes
+  - The student can even dive deeper into events
