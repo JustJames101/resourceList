@@ -2,7 +2,7 @@
 
 *This repo should can serve as a resource list while planning lessons for students, deciding project ideas, finding problems to go over in class or assigning students extra practice*
 
-_This Repo should not be used alone as a source of lessons and it is in no way complete_
+__This Repo should not be used alone as a source of lessons and it is in no way complete__
 
 ##### My two cents
   - There is a lot of great material on Learn however there isnt enough practice content
